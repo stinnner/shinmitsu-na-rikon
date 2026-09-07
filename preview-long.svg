@@ -2,7 +2,7 @@
 <style>text{font-family:"Hiragino Mincho ProN","Yu Mincho","Noto Serif CJK JP","Source Han Serif","Songti SC",serif;}</style>
 <rect x="0" y="0" width="780" height="4308" fill="#F7F1E3"/>
 <rect x="0" y="0" width="780" height="28" fill="#EFE6D2"/>
-<text x="390.0" y="56" text-anchor="middle" font-size="12" fill="#B8965A" letter-spacing="6">中篇随筆</text>
+<text x="390.0" y="56" text-anchor="middle" font-size="12" fill="#B8965A" letter-spacing="6"></text>
 <text x="390.0" y="104" text-anchor="middle" font-size="34" fill="#2B241C" font-weight="700" letter-spacing="8">親密な離婚</text>
 <line x1="270.0" y1="126" x2="378.0" y2="126" stroke="#D4C09A" stroke-width="1"/>
 <circle cx="390.0" cy="126" r="3" fill="#B8965A"/>
